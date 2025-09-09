@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+networkx
+qiskit
+qiskit-ibm-runtime
+qiskit-aer
+Flask
